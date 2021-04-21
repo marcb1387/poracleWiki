@@ -1,2 +1,10 @@
+---
+title: Third Party Apps
+nav_order: 9
+layout: default
+has_children: true
+has_toc: true
+---
+
 #Third Party Apps
 This documentation relates to all Third Party Apps compatible with PoracleJS.
