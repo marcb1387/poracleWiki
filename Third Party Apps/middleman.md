@@ -2,7 +2,7 @@
 title: Middleman
 nav_order: 1
 layout: default
-parent: v4
+parent: Third Party Apps
 ---
 
 #Tile Server Middleman
