@@ -1,2 +1,2 @@
 # Third Party Apps
-Third Party apps used to enchnaces the funcationalty of PorcaleJS
+Third Party apps used to enchnace the funcationalty of PorcaleJS
