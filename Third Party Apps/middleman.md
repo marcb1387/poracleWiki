@@ -5,5 +5,6 @@ layout: default
 parent: Third Party Apps
 ---
 
-# Tile Server Middleman
+# Tileserver Middleman
 
+https://github.com/ccev/tileserver-middleman
