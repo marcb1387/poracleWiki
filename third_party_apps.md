@@ -1,3 +1,9 @@
+---
+title: Third Party Apps
+nav_order: 9
+layout: default
+---
+
 # Third Party Apps
 Third Party apps used to enchnace the funcationalty of PorcaleJS
 
